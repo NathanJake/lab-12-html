@@ -1,0 +1,21 @@
+h1 {
+	color: #00FF00;
+	background-color: gray;
+}
+body {
+	font-family: sans-serif;
+}
+h1 {
+	text-transform: capitalize;
+	margin: 20px;
+	padding: 40px;
+	border-width: 5px;
+	border-style: dashed;
+	border-color: red;
+}
+.spotlight {
+	background-color: yellow;
+}
+h2 {
+	color: green;
+}
